@@ -1,0 +1,8 @@
+C:\Users\Diyari\source\repos\Rounded ListView\Rounded ListView\bin\Debug\Rounded ListView.dll
+C:\Users\Diyari\source\repos\Rounded ListView\Rounded ListView\bin\Debug\Rounded ListView.pdb
+C:\Users\Diyari\source\repos\Rounded ListView\Rounded ListView\obj\Debug\Rounded ListView.csprojAssemblyReference.cache
+C:\Users\Diyari\source\repos\Rounded ListView\Rounded ListView\obj\Debug\Rounded ListView.csproj.GenerateResource.cache
+C:\Users\Diyari\source\repos\Rounded ListView\Rounded ListView\obj\Debug\Rounded ListView.csproj.CoreCompileInputs.cache
+C:\Users\Diyari\source\repos\Rounded ListView\Rounded ListView\obj\Debug\Rounded ListView.dll
+C:\Users\Diyari\source\repos\Rounded ListView\Rounded ListView\obj\Debug\Rounded ListView.pdb
+C:\Users\Diyari\source\repos\Rounded ListView\Rounded ListView\obj\Debug\Rounded_ListView.RoundedListView.resources
